@@ -1,4 +1,4 @@
-# Login2explore
+# Login2Xplore
 
 ## Title of the Project
 Student Registration Form
